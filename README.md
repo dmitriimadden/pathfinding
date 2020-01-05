@@ -1,4 +1,4 @@
-# 3D PRM, RRT and Wavefront path finding algorithms on Python.
+# PRM, RRT and Wavefront path finding algorithms on Python in 3 dimensional.
 **Content of the folder:**
 
 There are three Python programs in the folder. Wavefront algorithm of finding path
