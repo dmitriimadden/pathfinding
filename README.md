@@ -4,6 +4,11 @@
 There are three Python programs in the folder. Wavefront algorithm of finding path
 (wavefront.py), PRM algorithm (prm.py) and RRT algorithm (rrt.py)
 
+**PRM** - The probabilistic roadmap planner is a motion planning algorithm in robotics, which solves the problem of determining a path between a starting configuration of the robot and a goal configuration while avoiding collisions.
+
+**RRT** - A rapidly exploring random tree (RRT) is an algorithm designed to efficiently search nonconvex, high-dimensional spaces by randomly building a space-filling tree. The tree is constructed incrementally from samples drawn randomly from the search space and is inherently biased to grow towards large unsearched areas of the problem. 
+
+**Wavefront** - The Wavefront algorithm finds a path from point S (start) to point G (goal) through a discretized workspace such as this (0 designates a cell of free space, 1 designates a cell fully occupied by an obstacle):
 
 **Dependencies:**
 
